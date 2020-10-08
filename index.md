@@ -1,8 +1,9 @@
  # welcome
  
  .[image].(src)
+ 
 
-مشخصات فردی 
+# مشخصات فردی 
 personal profile
 نام و نام خانوادگی : فاطمه رشیدی اصل
 full name : fatemeh rashidi asl
@@ -22,7 +23,8 @@ fatemehoct@gmail.com : ایمیل
 
 Email : fatemehoct@gmail.com
 
-سوابق تحصیلی 
+
+# سوابق تحصیلی 
 Education
 مقطع تحصیلی : کارشناسی
 
@@ -36,7 +38,7 @@ Field of Study : Computer Engineering
 
 University name : payamnoor
 
-سوابق کاری
+# سوابق کاری
 Resume
 نام کارگاه : کیان اذر
 
