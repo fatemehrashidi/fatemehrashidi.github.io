@@ -55,9 +55,9 @@ Company Name : kian azar
 # شبکه های اجتماعی
 social Networks
 
-اینستاگرام:rashidi._.76
+اینستاگرام : rashidi._.76
 
-Instagram:rashidi._ 76
+Instagram : rashidi._ 76
 
 
 
