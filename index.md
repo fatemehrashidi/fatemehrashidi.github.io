@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+ # welcome
+ 
+ .[image].(src)
 
-You can use the [editor on GitHub](https://github.com/fatemehrashidi/fatemehrashidi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+مشخصات فردی 
+personal profile
+نام و نام خانوادگی : فاطمه رشیدی اصل
+full name : fatemeh rashidi asl
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+سن : ۲۲ سال
+age : 22 years
 
-### Markdown
+_ محل سکونت : تهران
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Address : iran ,tehran
 
-```markdown
-Syntax highlighted code block
+تلفن همراه : ۰۹۱۰۲۶۸۵۶۷۵
 
-# Header 1
-## Header 2
-### Header 3
+Phone number : 09102685675
 
-- Bulleted
-- List
+fatemehoct@gmail.com : ایمیل
 
-1. Numbered
-2. List
+Email : fatemehoct@gmail.com
 
-**Bold** and _Italic_ and `Code` text
+سوابق تحصیلی 
+Education
+مقطع تحصیلی : کارشناسی
 
-[Link](url) and ![Image](src)
-```
+Grade : masters
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+رشته تحصیلی : مهندسی کامپیوتر
 
-### Jekyll Themes
+Field of Study : Computer Engineering
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatemehrashidi/fatemehrashidi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+نام دانشگاه : پیام نور
 
-### Support or Contact
+University name : payamnoor
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+سوابق کاری
+Resume
+نام کارگاه : کیان اذر
+
+Company Name : kian azar
+
+سمت کاری : کارگر 
+
+# شبکه های اجتماعی
+social Networks
+
+اینستاگرام:rashidi._.76
+
+Instagram:rashidi._ 76
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
