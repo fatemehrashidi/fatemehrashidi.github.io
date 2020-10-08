@@ -31,8 +31,13 @@ Email : fatemehoct@gmail.com
 
 
 # سوابق تحصیلی 
+
+
 Education
 مقطع تحصیلی : کارشناسی
+
+
+
 
 Grade : Master
 
