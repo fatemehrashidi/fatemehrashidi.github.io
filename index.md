@@ -1,6 +1,6 @@
  # welcome
  
- .[image].(src)
+<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/Snapchat-528597393.jpg" border="0" alt="آپلود عکس"></a>
  
 
 # مشخصات فردی 
