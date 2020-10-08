@@ -28,7 +28,7 @@ Email : fatemehoct@gmail.com
 Education
 مقطع تحصیلی : کارشناسی
 
-Grade : masters
+Grade : student
 
 رشته تحصیلی : مهندسی کامپیوتر
 
