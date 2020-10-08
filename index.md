@@ -4,11 +4,17 @@
  
 
 # مشخصات فردی 
+
+ 
 personal profile
+
+
 نام و نام خانوادگی : فاطمه رشیدی اصل
+
 full name : fatemeh rashidi asl
 
 سن : ۲۲ سال
+
 age : 22 years
 
 _ محل سکونت : تهران
